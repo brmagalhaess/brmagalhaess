@@ -7,6 +7,7 @@
 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brmagalhaess&show_icons=true&theme=dark)
+![Top Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=brmagalhaess&langs_count=8)
 
 ### Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
