@@ -1,13 +1,19 @@
 ### Olá! Eu sou o Bruno Magalhães 🖐️
+- 🚀 Estudando React
+- 🔥 Front-end
+
+  
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomagalhaess/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eubrunomagalhaes/)
 [![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://oclubedodinheiro.com.br/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oclubedodinheiro)
 [![Youtube](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oclubedodinheirooficial/)
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brmagalhaess&show_icons=false&theme=dark&include_all_commits=treu&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brmagalhaess&langs_count=16&theme=dark"/>
+</div>
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brmagalhaess&show_icons=true&theme=dark)
-![Top Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=brmagalhaess&langs_count=8)
 
 ### Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
